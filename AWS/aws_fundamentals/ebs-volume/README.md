@@ -1,5 +1,5 @@
-
 #HOW TO CREATE AN EBS VOLUME
+
 Ebs volume is like  a hard drive which is in block like structure
 when attaching ebs, first we need to select subnet of the particular az like ap-south-1a,1b etc..
 when attaching the created volume it will only attach to the volume present for a specific region
